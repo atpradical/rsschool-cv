@@ -25,7 +25,7 @@ I’m cosmonaut who has visited the moon. I’m passionate about exploring the u
 
 ## *Projects*
 
-TBD
+https://atpradical.github.io/rsschool-cv/cv
 
 
 ## *Code example*
@@ -44,4 +44,3 @@ Degree in information systems and technologies.
 
 * Russian: native
 * English: fluent
-
