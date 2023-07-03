@@ -5,7 +5,7 @@
 ## *Contacts*
 
 * E-mail: wow.dolgikh@yahoo.com
-* Telephone: iphope 3'000 PRO MAX.
+* Telephone: iphone 3'000 PRO MAX.
 * Discord: Ivan (@atpradical)
 
 
