@@ -32,8 +32,8 @@ header {
 }
 
 .nav-container a {
-  color: snow;
   font-weight: 500;
+  color: snow;
 }
 
 ul {
@@ -51,8 +51,8 @@ li img {
 }
 
 li a {
-  color: snow;
   font-weight: 500;
+  color: snow;
 }
 
 a {
@@ -67,7 +67,6 @@ a:hover {
 
 .profile-container {
   margin: 20px;
-  /* border: 1px solid red; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -106,7 +105,6 @@ h3 {
 .cv-content-container {
   margin: 0 20px;
   padding: 20px;
-  /* border: 1px solid blue; */
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -132,7 +130,6 @@ h3 {
 
 .section-wrapper {
   padding: 10px;
-  /* border: 1px solid red; */
   flex-basis: 35%;
   flex-grow: 1;
 }
@@ -155,8 +152,8 @@ h3 {
 }
 
 .footer-item-container a {
-  color: snow;
   font-weight: 500;
+  color: snow;
 }
 
 .footer-item-container a:hover {
@@ -165,8 +162,8 @@ h3 {
 
 .footer-item-container p {
   font-size: 0.8em;
-  color: snow;
   font-weight: 500;
+  color: snow;
 }
 
 .footer-item-sub-container {
@@ -182,7 +179,7 @@ h3 {
   border-radius: 50%;
 }
 
-.footer-item-2 img {
+.footer-item img {
   width: 150px;
   height: 50px;
 }
