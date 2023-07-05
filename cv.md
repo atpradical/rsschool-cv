@@ -1,6 +1,6 @@
 # **Ivan Dolgikh**
 
-![Image](./ava_dev.jpg)
+![Image](./assets/img/profile_photo.jpg)
 
 ## *Contacts*
 
@@ -9,7 +9,7 @@
 * Discord: Ivan (@atpradical)
 
 
-## *About myself:*
+## *Summary:*
 
 I’m cosmonaut who has visited the moon. I’m passionate about exploring the universe and finding the edge of it. I’m also an avid tennis player and enjoy coding websites in my free time. I’ve been recognized for my contributions to space exploration and have received numerous awards for my work.
 
