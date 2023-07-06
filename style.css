@@ -11,13 +11,19 @@ html {
   scroll-behavior: smooth;
 }
 
+.main {
+  margin-bottom: auto;
+}
+
 .container {
-  max-width: 1100px;
+  width: calc(100% - 15%);
+  height: 100%;
   margin: auto;
+  margin-bottom: auto;
+  font-size: 1rem;
   display: flex;
   flex-direction: column;
   background-color: #fbe3be;
-  /* border: 2px solid black; */
 }
 
 header {
@@ -26,7 +32,7 @@ header {
 }
 
 .nav-container {
-  padding: 10px 20px;
+  padding: 1% 2%;
   display: flex;
   justify-content: end;
 }
@@ -104,7 +110,7 @@ h3 {
 
 .cv-content-container {
   margin: 0 20px;
-  padding: 20px;
+  padding: 1% 2%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -182,4 +188,57 @@ h3 {
 .footer-item img {
   width: 150px;
   height: 50px;
+}
+
+@media (max-width: 820px) {
+  .container {
+    width: 100%;
+    font-size: 0.7rem;
+  }
+
+  .nav-container {
+    align-items: center;
+  }
+
+  .profile-container {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .profile-photo {
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+  }
+
+  .cv-content-container {
+    flex-direction: column;
+  }
+
+  .footer-item img {
+    width: 130px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 450px) {
+  .container {
+    font-size: 0.7rem;
+  }
+
+  .nav-container {
+    padding: 0 2%;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .profile-photo {
+    width: 125px;
+    height: 125px;
+    margin: 20px;
+  }
+
+  .footer-container {
+    padding: 10px 10px;
+  }
 }
